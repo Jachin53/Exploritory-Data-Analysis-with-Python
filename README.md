@@ -1,4 +1,3 @@
-# Exploritory-Data-Analysis-with-Python
 # 📊 Exploratory Data Analysis with Python – Resale Shop Dataset
 
 ## 📌 Overview

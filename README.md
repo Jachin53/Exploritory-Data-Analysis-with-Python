@@ -11,6 +11,6 @@ This project demonstrates **🔍 exploratory data analysis (EDA)** using Python 
 The goal is to uncover **business insights** such as customer segmentation, spending behavior, and revenue drivers with Python.
 
 ---
-- #📂Libraries:
+ #📂Libraries:
   - pandas
   - numpy
